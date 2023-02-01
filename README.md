@@ -1,4 +1,4 @@
-![Hey there, I'm Quana. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Quan061002/Quan061002/raw/main/header.gif)
+![Hey there, I'm Quana. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Quan061002/Quan061002/raw/main/1.gif)
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Chan35846860) &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/QuanaXD?logo=GitHub&style=for-the-badge)](https://github.com/QuanaXD) &nbsp; 
@@ -7,7 +7,13 @@
 
 # 👋 &nbsp;Hi there
 
-I'm a software developer based in VietNam. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with Itellij and Xampp. Slightly obsessed with Home Automation and Home Labs. You can find me on Twitter [@Bouquetman](https://twitter.com/Bouquetman). Feel free to tweet me any time. You can also check out my website (I do'nt even have it yet) for my blog and more.
+I'm a software developer based in VietNam. 
+I enjoy coding open-source projects that solve unique problems. 
+I love combining my hobbies like 3D printing, coding and building various projects with Itellij and Xampp. 
+Slightly obsessed with Home Automation and Home Labs. 
+You can find me on Twitter [@Bouquetman](https://twitter.com/Bouquetman). 
+Feel free to tweet me any time. 
+You can also check out my website (I don't even have it yet) for my blog and more.
 
 &nbsp;
 

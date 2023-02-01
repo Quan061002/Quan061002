@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="326fd390-c5e8-41cd-9537-68b5a7200611" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/header.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/blog-post-workflow.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/blog-post-workflow.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -60,7 +57,7 @@
       <updated>1675220788474</updated>
       <workItem from="1675220790787" duration="4082000" />
       <workItem from="1675225346608" duration="1260000" />
-      <workItem from="1675226630970" duration="184000" />
+      <workItem from="1675226630970" duration="1389000" />
     </task>
     <servers />
   </component>
