@@ -67,10 +67,10 @@ You can also check out my website (I don't even have it yet) for my blog and mor
 <br>
 <div align=center>
   <a href="#" title="Quanadev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quan061002&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Quanadev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Quan061002&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -109,13 +109,10 @@ You can also check out my website (I don't even have it yet) for my blog and mor
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:Quanadev.official@gmail.com" target="_top">Quanadev.official@gmail.com</a></strong>
 </p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
+<a href="https://youtube.com" target="_blank">
   <img src="images/meme.jpg" width="1200" alt="Quanadev-official" />
 </a>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/Quanadev-quotes.svg" width="846" height="150" alt="Quanadev-official" />
-</a>
+<br> Whut the fuk is quote
