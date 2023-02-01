@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in Cyris.io posts
+      - name: Pull in Quana.io posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://cyris.io/feed.xml"
+          feed_list: "https://Quana.io/feed.xml"
