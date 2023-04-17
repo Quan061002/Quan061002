@@ -1,16 +1,16 @@
 ![Hey there, I'm Quana. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Quan061002/Quan061002/raw/main/1.gif)
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Chan35846860) &nbsp;
+<!-- [![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/Chan35846860) &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/QuanaXD?logo=GitHub&style=for-the-badge)](https://github.com/QuanaXD) &nbsp; 
 [![GitHub Stars](https://img.shields.io/github/stars/QuanaXD?logo=github&style=for-the-badge)](https://github.com/QuanaXD) &nbsp; 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/QuanaXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/QuanaXD)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/QuanaXD?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/QuanaXD) -->
 
 # 👋 &nbsp;Hi there
 
 I'm a software developer based in VietNam. 
 I enjoy coding open-source projects that solve unique problems. 
-I love combining my hobbies like 3D printing, coding and building various projects with Itellij and Xampp. 
-Slightly obsessed with Home Automation and Home Labs. 
+<!-- I love combining my hobbies like 3D printing, coding and building various projects with Itellij and Xampp. 
+Slightly obsessed with Home Automation and Home Labs.  -->
 You can find me on Twitter [@Bouquetman](https://twitter.com/Bouquetman). 
 Feel free to tweet me any time. 
 You can also check out my website (I don't even have it yet) for my blog and more.
@@ -28,36 +28,36 @@ You can also check out my website (I don't even have it yet) for my blog and mor
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
-&nbsp;
+&nbsp; -->
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="25" /></span>
-&nbsp;
+&nbsp; -->
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
+&nbsp; -->
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
+&nbsp; -->
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
+<!-- <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp; -->
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
@@ -101,7 +101,7 @@ You can also check out my website (I don't even have it yet) for my blog and mor
 
 <br>
 
-<h2 align="center">📖 My f*king contact 📖</h2>
+<h2 align="center">📖 My f*kin contact 📖</h2>
 <p>
   <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Quana-the-immortal</a></strong>
   <br>
